@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/github.io/noman_vai/static/css/main.625c1059.chunk.css",
+    "main.js": "/github.io/noman_vai/static/js/main.3a107d3e.chunk.js",
+    "main.js.map": "/github.io/noman_vai/static/js/main.3a107d3e.chunk.js.map",
+    "runtime-main.js": "/github.io/noman_vai/static/js/runtime-main.342664d0.js",
+    "runtime-main.js.map": "/github.io/noman_vai/static/js/runtime-main.342664d0.js.map",
+    "static/css/2.383c0125.chunk.css": "/github.io/noman_vai/static/css/2.383c0125.chunk.css",
+    "static/js/2.a8b57208.chunk.js": "/github.io/noman_vai/static/js/2.a8b57208.chunk.js",
+    "static/js/2.a8b57208.chunk.js.map": "/github.io/noman_vai/static/js/2.a8b57208.chunk.js.map",
+    "static/js/3.3c26b114.chunk.js": "/github.io/noman_vai/static/js/3.3c26b114.chunk.js",
+    "static/js/3.3c26b114.chunk.js.map": "/github.io/noman_vai/static/js/3.3c26b114.chunk.js.map",
+    "index.html": "/github.io/noman_vai/index.html",
+    "static/css/2.383c0125.chunk.css.map": "/github.io/noman_vai/static/css/2.383c0125.chunk.css.map",
+    "static/css/main.625c1059.chunk.css.map": "/github.io/noman_vai/static/css/main.625c1059.chunk.css.map",
+    "static/js/2.a8b57208.chunk.js.LICENSE.txt": "/github.io/noman_vai/static/js/2.a8b57208.chunk.js.LICENSE.txt",
+    "static/media/Bannar.css": "/github.io/noman_vai/static/media/bannar_demo.6a8479ef.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.342664d0.js",
+    "static/css/2.383c0125.chunk.css",
+    "static/js/2.a8b57208.chunk.js",
+    "static/css/main.625c1059.chunk.css",
+    "static/js/main.3a107d3e.chunk.js"
+  ]
+}
